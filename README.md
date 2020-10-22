@@ -1,2 +1,1 @@
-main.py를 실행하세요.
-또는 main.ipynb를 Colab에서 동작시켜도 됩니다.
+train.py를 실행하면 checkpoint 유무에 따라 학습이 진행되거나 시를 생성합니다.
