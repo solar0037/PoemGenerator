@@ -1,7 +1,10 @@
 import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 import joblib
 import tensorflow as tf
 from tensorflow.keras import Model
+from tensorflow.keras.optimizers import Adam
+from tensorflow.keras.losses import SparseCategoricalCrossentropy
 from tensorflow.keras.callbacks import ModelCheckpoint
 
 from model import get_model
@@ -19,6 +22,11 @@ if __name__ == '__main__':
 
     # build model
     model: Model = get_model(vocab_size=vocab_size, max_len=max_len)
+    
+    """# optimizer, loss due to optimizer warnings
+    optimizer = Adam(learning_rate=1e-3)
+    loss_object = SparseCategoricalCrossentropy(from_logits=True)
+    model.compile(optimizer=optimizer, loss=loss_object, metrics=['accuracy'])
 
     # restore weights
     try:
@@ -30,7 +38,16 @@ if __name__ == '__main__':
             filepath=checkpoint_prefix,
             save_weights_only=True
         )
-        model.load_weights(tf.train.latest_checkpoint(checkpoint_dir))
+        model.load_weights(tf.train.latest_checkpoint(checkpoint_dir))"""
+    
+    # cannot solve optimizer error when using h5 format
+    # so sticking to checkpoint
+    checkpoint_prefix = os.path.join(checkpoint_dir, 'ckpt')
+    checkpoint_callback = ModelCheckpoint(
+        filepath=checkpoint_prefix,
+        save_weights_only=True
+    )
+    model.load_weights(tf.train.latest_checkpoint(checkpoint_dir))
     
 
     # generate text until [SEP] token
