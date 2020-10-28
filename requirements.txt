@@ -154,7 +154,7 @@ pyparsing==2.4.7
 pyreadline==2.1
 pyrsistent==0.17.3
 PySocks==1.7.1
-pytest==5.4.3
+pytest==6.1.1
 python-dateutil==2.8.1
 python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1594397536060/work
 python-language-server @ file:///C:/ci/python-language-server_1594162130238/work
