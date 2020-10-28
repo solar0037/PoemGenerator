@@ -122,7 +122,7 @@ packaging==20.4
 pandas @ file:///C:/ci/pandas_1592833613419/work
 pandocfilters==1.4.3
 paramiko==2.7.2
-parso==0.7.0
+parso==0.8.0
 partd==1.1.0
 path==15.0.0
 pathlib2==2.3.5
