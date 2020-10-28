@@ -148,7 +148,7 @@ pyflakes==2.2.0
 Pygments==2.7.2
 pylint @ file:///C:/ci/pylint_1592482039483/work
 PyNaCl @ file:///C:/ci/pynacl_1595000047588/work
-pyodbc===4.0.0-unsupported
+pyodbc===4.0.30
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
 pyparsing==2.4.7
 pyreadline==2.1
