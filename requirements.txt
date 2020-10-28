@@ -120,7 +120,7 @@ olefile==0.46
 openpyxl @ file:///tmp/build/80754af9/openpyxl_1594167385094/work
 packaging==20.4
 pandas @ file:///C:/ci/pandas_1592833613419/work
-pandocfilters==1.4.2
+pandocfilters==1.4.3
 paramiko==2.7.2
 parso==0.7.0
 partd==1.1.0
