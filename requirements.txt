@@ -173,7 +173,7 @@ regex @ file:///C:/ci/regex_1593419644658/work
 requests @ file:///tmp/build/80754af9/requests_1592841827918/work
 rope==0.17.0
 Rtree==0.9.4
-ruamel-yaml==0.15.87
+ruamel-yaml==0.16.12
 scikit-image==0.16.2
 scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
 scipy @ file:///C:/ci/scipy_1592916963468/work
