@@ -201,7 +201,7 @@ SQLAlchemy @ file:///C:/ci/sqlalchemy_1593445271541/work
 statsmodels==0.11.1
 sympy @ file:///C:/ci/sympy_1594234545115/work
 tables==3.6.1
-tblib==1.6.0
+tblib==1.7.0
 terminado==0.8.3
 testpath==0.4.4
 threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
