@@ -206,7 +206,7 @@ terminado==0.8.3
 testpath==0.4.4
 threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
 toml @ file:///tmp/build/80754af9/toml_1592853716807/work
-toolz==0.10.0
+toolz==0.11.1
 tornado==6.0.4
 tqdm @ file:///tmp/build/80754af9/tqdm_1593446365756/work
 traitlets==4.3.3
