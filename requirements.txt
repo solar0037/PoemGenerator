@@ -40,7 +40,7 @@ contextlib2==0.6.0.post1
 cryptography==3.2
 cycler==0.10.0
 Cython @ file:///C:/ci/cython_1594829190914/work
-cytoolz==0.10.1
+cytoolz==0.11.0
 dask @ file:///tmp/build/80754af9/dask-core_1594156306305/work
 decorator==4.4.2
 defusedxml==0.6.0
