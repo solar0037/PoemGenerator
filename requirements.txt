@@ -132,7 +132,7 @@ pep8==1.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow @ file:///C:/ci/pillow_1594298230227/work
-pkginfo==1.5.0.1
+pkginfo==1.6.1
 pluggy==0.13.1
 ply==3.11
 prometheus-client==0.8.0
