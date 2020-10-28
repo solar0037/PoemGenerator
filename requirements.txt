@@ -171,7 +171,7 @@ qtconsole @ file:///tmp/build/80754af9/qtconsole_1592848611704/work
 QtPy==1.9.0
 regex @ file:///C:/ci/regex_1593419644658/work
 requests @ file:///tmp/build/80754af9/requests_1592841827918/work
-rope==0.17.0
+rope==0.18.0
 Rtree==0.9.4
 ruamel-yaml==0.15.87
 scikit-image==0.16.2
