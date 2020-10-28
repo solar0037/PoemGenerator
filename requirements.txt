@@ -209,7 +209,7 @@ toml @ file:///tmp/build/80754af9/toml_1592853716807/work
 toolz==0.10.0
 tornado==6.0.4
 tqdm @ file:///tmp/build/80754af9/tqdm_1593446365756/work
-traitlets==4.3.3
+traitlets==5.0.5
 typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1592847887441/work
 ujson==1.35
 unicodecsv==0.14.1
