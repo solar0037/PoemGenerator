@@ -58,7 +58,7 @@ future==0.18.2
 gevent @ file:///C:/ci/gevent_1593005471151/work
 glob2==0.7
 gmpy2==2.0.8
-greenlet==0.4.16
+greenlet==0.4.17
 h5py==2.10.0
 HeapDict==1.0.1
 html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
