@@ -232,4 +232,4 @@ yapf @ file:///tmp/build/80754af9/yapf_1593528177422/work
 zict==2.0.0
 zipp==3.1.0
 zope.event==4.4
-zope.interface==4.7.1
+zope.interface==5.1.2
