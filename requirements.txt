@@ -166,7 +166,7 @@ pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.1
 QDarkStyle==2.8.1
-QtAwesome==0.7.2
+QtAwesome==1.0.1
 qtconsole @ file:///tmp/build/80754af9/qtconsole_1592848611704/work
 QtPy==1.9.0
 regex @ file:///C:/ci/regex_1593419644658/work
