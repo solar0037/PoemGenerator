@@ -177,7 +177,7 @@ ruamel-yaml==0.16.12
 scikit-image==0.16.2
 scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
 scipy @ file:///C:/ci/scipy_1592916963468/work
-seaborn==0.10.1
+seaborn==0.11.0
 Send2Trash==1.5.0
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
