@@ -87,7 +87,7 @@ jupyterlab==2.2.9
 jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
 keyring @ file:///C:/ci/keyring_1593109799227/work
 kiwisolver==1.3.0
-lazy-object-proxy==1.4.3
+lazy-object-proxy==1.5.1
 libarchive-c==2.9
 llvmlite==0.33.0+1.g022ab0f
 locket==0.2.0
