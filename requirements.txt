@@ -124,7 +124,7 @@ pandocfilters==1.4.2
 paramiko==2.7.1
 parso==0.7.0
 partd==1.1.0
-path==13.1.0
+path==15.0.0
 pathlib2==2.3.5
 pathtools==0.1.2
 patsy==0.5.1
