@@ -198,7 +198,7 @@ sphinxcontrib-websupport @ file:///tmp/build/80754af9/sphinxcontrib-websupport_1
 spyder @ file:///C:/ci/spyder_1594830825244/work
 spyder-kernels @ file:///C:/ci/spyder-kernels_1594751670175/work
 SQLAlchemy @ file:///C:/ci/sqlalchemy_1593445271541/work
-statsmodels==0.11.1
+statsmodels==0.12.0
 sympy @ file:///C:/ci/sympy_1594234545115/work
 tables==3.6.1
 tblib==1.6.0
