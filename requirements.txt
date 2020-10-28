@@ -174,7 +174,7 @@ requests @ file:///tmp/build/80754af9/requests_1592841827918/work
 rope==0.18.0
 Rtree==0.9.4
 ruamel-yaml==0.16.12
-scikit-image==0.16.2
+scikit-image==0.17.2
 scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
 scipy @ file:///C:/ci/scipy_1592916963468/work
 seaborn==0.11.0
