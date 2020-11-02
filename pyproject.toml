@@ -11,6 +11,7 @@ requests = "^2.24.0"
 tokenizers = "^0.9.3"
 beautifulsoup4 = "^4.9.3"
 joblib = "^0.17.0"
+pylint = "^2.6.0"
 
 [tool.poetry.dev-dependencies]
 
